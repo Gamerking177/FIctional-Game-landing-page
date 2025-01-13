@@ -1,7 +1,3 @@
-Got it! Here's an updated version of the README for creating a landing page for **AdventureQuest: The Lost Kingdom** using React. This version will focus on React components, interactivity, and how to get the project up and running.
-
----
-
 # AdventureQuest: The Lost Kingdom - Landing Page (React)
 
 Welcome to the **AdventureQuest: The Lost Kingdom** landing page, built using **React**! This page is designed to showcase the immersive world of the game with animated characters, engaging hover effects, and interactive previews of the game’s mechanics and storyline.
